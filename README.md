@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="gmoreno9617" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gmoreno9617 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
